@@ -1,1 +1,1 @@
-# educoaster
+# educoaster project
